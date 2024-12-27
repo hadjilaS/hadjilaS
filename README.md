@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadjilas&label=Profile%20views&color=0e75b6&style=flat" alt="hadjilas" /> </p>
-<img align="right" alt="coding" width="400" src="[https://chatgpt.com/c/676f176b-cab8-8010-84fc-88ac9babefa9.](https://static.vecteezy.com/system/resources/previews/000/242/482/original/female-developer-vector.jpg">
+
 
 - 🔭 I’m currently studying **CS System**
 
